@@ -5,7 +5,7 @@ Open, extensive, and low limit universal license
 
 ``` Plaintext
 Moedigital License
-Issued by: [Name of individual or organization]
+Issued by: [Name of individual or organization] [Time (optional)]
 Applicable to both software works and non-software works such as illustrations, fonts, etc.
 1. Trademark Application through Derivative Products: Derivative products may apply for trademarks, but the original content cannot be used directly for trademark applications.
 2. Modification and Attribution: Modified content must include original copyright information and may not remove the original author's comments or explanatory content.
@@ -16,7 +16,7 @@ Applicable to both software works and non-software works such as illustrations, 
 7. Usage and Compliance: As long as users or modifiers comply with this agreement, no individual or organization may refuse or deny the rights of the original author or modifier based on widespread use or other copyright disputes.
 ---
 萌数次元通用开放源代码和公开作品分享许可证协议
-发行单位：[个人或组织名称]
+发行单位：[个人或组织名称] [时间(可选)]
 适用于软件作品以及插图、字体等非软件作品。
 1. 通过衍生产品申请商标：允许通过衍生产品申请商标，但不得直接使用原内容进行商标申请。
 2. 修改与归属：修改内容必须注明原版权信息，不得删除原作者的注释或解释内容。
